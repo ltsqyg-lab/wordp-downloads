@@ -1,17 +1,17 @@
-# 词P · 客户端下载
+# 词P · Downloads
 
-看图猜词的单词 App，外加十种单词小游戏。
+A vocabulary app where you guess the word from a picture, plus ten word mini-games.
 
-**这个仓库只放安装包，不放代码。**
+**This repository only hosts installers, not source code.**
 
-## 下载
+## Download
 
-去 [Releases](../../releases/latest) 拿最新的 `wordp.apk`（Android，arm64-v8a）。
+Get the latest `wordp.apk` (Android, arm64-v8a) from [Releases](../../releases/latest).
 
-网页版不用装：<https://wordp.net>
+No install needed for the web version: <https://wordp.net>
 
-## 装完之后
+## After installing
 
-打开「词P」，服务器地址默认就是公网地址，直接登录即可。测试账号问作者要。
+Open 词P. The server address already defaults to the public one, so just sign in. Ask the author for a test account.
 
-安装包没有做代码签名，系统会提示来源未知，选「仍要安装」。
+The installer isn't code-signed, so the system will warn that it comes from an unknown source; choose "Install anyway".
