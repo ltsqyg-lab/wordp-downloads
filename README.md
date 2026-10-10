@@ -1,4 +1,4 @@
-# wordP · Downloads
+# WordP · Downloads
 
 A vocabulary app where you guess the word from a picture, plus ten word mini-games.
 
